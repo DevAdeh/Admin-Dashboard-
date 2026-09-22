@@ -3,7 +3,7 @@
 A responsive admin dashboard built with HTML, CSS, and JavaScript, featuring an overview page with stats and a live sales chart, a searchable orders table, and a customers view.
 
 ## Preview
-![dashboard preview](./preview.png)
+![dashboard preview](./assets/preview.png)
 
 ## Links
 
