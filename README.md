@@ -9,7 +9,7 @@ A responsive admin dashboard built with HTML, CSS, and JavaScript, featuring an 
 
 Solution link: [https://github.com/DevAdeh/Admin-Dashboard-.git]
 
-Live link: [https://your-live-link-here.vercel.app/]
+Live link: [https://admin-dashboard-inky-xi-93.vercel.app/]
 
 ## Features
 - Sidebar navigation between Overview, Orders, and Customers pages
